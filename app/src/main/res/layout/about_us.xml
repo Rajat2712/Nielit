@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:background="@color/viewBg"
+        android:text="@string/tvh1"
+        android:id="@+id/tvh1"
+        android:clickable="true"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:textSize="20dp"
+        android:text="@string/tv1"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/light_grey"
+        android:layout_marginTop="13dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvh2"
+        android:textSize="30dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:background="@color/viewBg"
+        android:id="@+id/tvh2"
+        android:clickable="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv2"
+        android:text="@string/tv2"
+        android:textSize="20dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/light_grey"
+        android:layout_marginTop="13dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvh3"
+        android:textSize="30dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:background="@color/viewBg"
+        android:id="@+id/tvh3"
+        android:clickable="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv3"
+        android:text="@string/tv3"
+        android:textSize="20dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/light_grey"
+        android:layout_marginTop="13dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvh4"
+        android:textSize="30dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:background="@color/viewBg"
+        android:id="@+id/tvh4"
+        android:clickable="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv4"
+        android:text="@string/tv4"
+        android:textSize="20dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/light_grey"
+        android:layout_marginTop="13dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvh5"
+        android:textSize="30dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:background="@color/viewBg"
+        android:id="@+id/tvh5"
+        android:clickable="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv5"
+        android:text="@string/tv5"
+        android:textSize="20dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/light_grey"
+        android:layout_marginTop="13dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvh6"
+        android:textSize="30dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:background="@color/viewBg"
+        android:id="@+id/tvh6"
+        android:clickable="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv6"
+        android:text="@string/tv6"
+        android:textSize="20dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/light_grey"
+        android:layout_marginTop="13dp"/>
+
+
+</LinearLayout>
+
+    </ScrollView>

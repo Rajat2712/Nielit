@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NIELIT</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">NIELIT</string>
+    <string name="backdrop_subtitle">National Institute of Electronics and Information Technology</string>
+    <string name="nielit"> NIELIT Delhi </string>
+    <string name="phone"> Phone:- 011-23644149,23644849</string>
+    <string name="email">dir-delhi@nielit.gov.in</string>
+    <string name="tvh1"> Introduction </string>
+    <string name="tv1">NIELIT, Delhi Centre was established in March 2000 and has proven its capability and efficiency of providing quality Computer Education and handling large projects of Govt. organizations in different sectors. The Centre was initially working as Branch Office of NIELIT, Chandigarh Centre .It was declared as an independent Centre of NIELIT on 1st November, 2012. The centre has accomplished many feats in executing various turnkeys IT Projects which involved the automation of many Hospitals and various Government offices.   NIELIT is a premiere ICT education institute. Established in 2000, NIELIT is a pioneer in IT and Electronics training. The institute offers world class quality of education, a wide range of courses, job placement assistance. NIELIT prepares the students to be part of growing industry</string>
+    <string name="tvh2">Location </string>
+    <string name="tv2">NIELIT, Delhi Centre is located right at “Inderlok Metro Station” and is housed in a centrally air conditioned spacious Parsavnath Metro Mall with parking facility. It is well connected with New Delhi Railway Stations (which is just 7 Kms.), and Old Delhi Railway Station (just 6 Kms) and Inter State Bus Terminal Kashmere Gate (just 7Kms) which is hardly 10 minutes Metro Run from Kashmere Gate Metro Station. It is easily approachable from all corners of Delhi through Delhi Metro</string>
+    <string name="tvh3">Thrust Area </string>
+    <string name="tv3">IT /Electronics education, Capacity building in the areas of e-Governance, GIS etc. Automation, Web Application Development, Online/Offline Examinations have been our major thrust areas where the Centre has excelled and has braced a name for itself</string>
+    <string name="tvh4"> Introduction to the Centre </string>
+    <string name="tv4">The Centre is fully geared to meet the new Challenges in IT Industry. A pool of committed talent is tirelessly working to achieve the specific benchmarks set in the IT field to match speed at “Business @ thought”. The Centre’s strength lies in the dynamic and innovative leadership which is always in search of new ventures and challenges to work on. We have been successful in all major ventures undertaken by us, be it Training , Software Development or Electronic Data Processing, we have left an indelible mark on the minds of our clients. “Cost effective, time-to market solutions” is our motto that we not only boast about, but actually put it into practice. Every member of our team is committed to work on these principles. We have paved way for many of the success stories that have been coined by our Centre’s most prized possessions ------ “The Students.”</string>
+    <string name="tvh5"> Infrastructure</string>
+    <string name="tv5">The Centre has state of the art computing facilities with five fully furnished classrooms, four dedicated laboratories for the students to carry out their practical assignments equipped with multimedia Projector. Cisco Lab has been designed to establish Cisco Local Academy with the state of the art networking equipment. A dedicated library comprising of more than 1000 books with latest journals and magazines exist for the students as well as faculty. There is a dedicated server for imparting online training on Information Security through virtual classroom. </string>
+    <string name="tvh6">Objectives </string>
+    <string name="tv6">
+        • Disseminate knowledge on all aspects of IT and Electronics.
+        • Provide Quality Education and Training to prepare individuals for technology driven business environment effectively.
+        • Provide quality education to participants for upgrading their technical skills in an environment that is conducive to learning by providing good infrastructure.
+        • Provide continuing support to learners and trainers through design and development of innovative curricula for meeting the dynamically changing IECT scenarios.
+        • To impart continuing education for up gradation of knowledge and skills in view of high obsolesce in the area of IECT.
+    </string>
+
+    <string-array name="center">
+        <item>---Select Center---</item>
+        <item>Delhi</item>
+        <item>Pitampura</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Home"
+          android:id="@+id/nav_item_home"
+        />
+
+
+
+    <item android:title="Courses">
+        <menu>
+            <item
+                android:title="Short Term"
+                android:id="@+id/nav_item_sterm"
+                />
+            <item
+                android:title="Long Term"
+                android:id="@+id/nav_item_lterm"
+                />
+            <item
+                android:title="Diploma Courses"
+                android:id="@+id/nav_item_dipl"
+                />
+            <item
+                android:title="Training Courses "
+                android:id="@+id/nav_item_proj"
+                />
+        </menu>
+    </item>
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="About Us"
+            android:id="@+id/aboutus"
+              />
+        <item android:title="Contact Us"
+            android:id="@+id/contactus"
+             />
+
+        <item android:title="Visit Us"
+            android:id="@+id/visitus"
+            />
+    </group>
+
+
+</menu>
